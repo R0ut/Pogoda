@@ -8,10 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Pogoda.Properties
-{
-
-
+namespace Pogoda.Properties {
+    using System;
+    
+    
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -22,49 +22,140 @@ namespace Pogoda.Properties
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources
-    {
-
+    internal class Resources {
+        
         private static global::System.Resources.ResourceManager resourceMan;
-
+        
         private static global::System.Globalization.CultureInfo resourceCulture;
-
+        
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources()
-        {
+        internal Resources() {
         }
-
+        
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager
-        {
-            get
-            {
-                if ((resourceMan == null))
-                {
+        internal static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Pogoda.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
             }
         }
-
+        
         /// <summary>
         ///   Overrides the current thread's CurrentUICulture property for all
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture
-        {
-            get
-            {
+        internal static global::System.Globalization.CultureInfo Culture {
+            get {
                 return resourceCulture;
             }
-            set
-            {
+            set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bad {
+            get {
+                object obj = ResourceManager.GetObject("bad", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap good {
+            get {
+                object obj = ResourceManager.GetObject("good", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;!DOCTYPE html&gt; 
+        ///&lt;html&gt; 
+        ///	&lt;head&gt; 
+        ///		&lt;title&gt;Radom - Prognoza pogody dla Radomia, Pogoda na 16 dni | TwojaPogoda.pl&lt;/title&gt;		&lt;meta charset=&quot;UTF-8&quot;&gt;
+        ///&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; &gt;
+        ///&lt;meta name=&quot;keywords&quot; content=&quot;pogoda, prognoza pogody, warunki pogodowe&quot; &gt;
+        ///&lt;meta name=&quot;description&quot; content=&quot;Prognoza pogody dla Radomia na najbliższe dni. Sprawdź jaka pogoda będzie w Radomiu. Aktualne informacje meteorologiczne dla Radomia.&quot; lang=&quot;pl&quot; &gt;		&lt;link href=&quot;http://code.jquery.com/u [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string html {
+            get {
+                return ResourceManager.GetString("html", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=&amp;deg).
+        /// </summary>
+        internal static string patern1 {
+            get {
+                return ResourceManager.GetString("patern1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(\s*.*)(?=km).
+        /// </summary>
+        internal static string patern2 {
+            get {
+                return ResourceManager.GetString("patern2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=% nieba).
+        /// </summary>
+        internal static string patern3 {
+            get {
+                return ResourceManager.GetString("patern3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=mm / 12).
+        /// </summary>
+        internal static string patern4 {
+            get {
+                return ResourceManager.GetString("patern4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=hPa).
+        /// </summary>
+        internal static string patern5 {
+            get {
+                return ResourceManager.GetString("patern5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=%&lt;/div&gt;).
+        /// </summary>
+        internal static string patern6 {
+            get {
+                return ResourceManager.GetString("patern6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap unknown {
+            get {
+                object obj = ResourceManager.GetObject("unknown", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

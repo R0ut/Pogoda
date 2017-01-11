@@ -28,47 +28,101 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.text = new System.Windows.Forms.RichTextBox();
+            this.buttonGet = new System.Windows.Forms.Button();
+            this.textBoxInformation = new System.Windows.Forms.RichTextBox();
+            this.comboBoxState = new System.Windows.Forms.ComboBox();
+            this.comboBoxCity = new System.Windows.Forms.ComboBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pictureBoxConnectionStatus = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxConnectionStatus)).BeginInit();
             this.SuspendLayout();
             // 
-            // button1
+            // buttonGet
             // 
-            this.button1.Location = new System.Drawing.Point(98, 204);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.buttonGet.Enabled = false;
+            this.buttonGet.Location = new System.Drawing.Point(341, 25);
+            this.buttonGet.Name = "buttonGet";
+            this.buttonGet.Size = new System.Drawing.Size(75, 23);
+            this.buttonGet.TabIndex = 0;
+            this.buttonGet.Text = "Ok";
+            this.buttonGet.UseVisualStyleBackColor = true;
+            this.buttonGet.Click += new System.EventHandler(this.button1_Click);
             // 
-            // text
+            // textBoxInformation
             // 
-            this.text.Location = new System.Drawing.Point(12, 12);
-            this.text.Name = "text";
-            this.text.Size = new System.Drawing.Size(260, 186);
-            this.text.TabIndex = 1;
-            this.text.Text = "";
-            this.text.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
+            this.textBoxInformation.Location = new System.Drawing.Point(33, 97);
+            this.textBoxInformation.Name = "textBoxInformation";
+            this.textBoxInformation.ReadOnly = true;
+            this.textBoxInformation.Size = new System.Drawing.Size(260, 186);
+            this.textBoxInformation.TabIndex = 1;
+            this.textBoxInformation.Text = "";
+            // 
+            // comboBoxState
+            // 
+            this.comboBoxState.FormattingEnabled = true;
+            this.comboBoxState.Location = new System.Drawing.Point(49, 12);
+            this.comboBoxState.Name = "comboBoxState";
+            this.comboBoxState.Size = new System.Drawing.Size(200, 21);
+            this.comboBoxState.TabIndex = 2;
+            this.comboBoxState.SelectedIndexChanged += new System.EventHandler(this.comboBox1_TextChanged);
+            // 
+            // comboBoxCity
+            // 
+            this.comboBoxCity.FormattingEnabled = true;
+            this.comboBoxCity.Location = new System.Drawing.Point(49, 40);
+            this.comboBoxCity.Name = "comboBoxCity";
+            this.comboBoxCity.Size = new System.Drawing.Size(200, 21);
+            this.comboBoxCity.TabIndex = 3;
+            this.comboBoxCity.Visible = false;
+            this.comboBoxCity.SelectedIndexChanged += new System.EventHandler(this.comboBoxCity_SelectedIndexChanged);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(317, 116);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(99, 13);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "Internet connection";
+            // 
+            // pictureBoxConnectionStatus
+            // 
+            this.pictureBoxConnectionStatus.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBoxConnectionStatus.Image = global::Pogoda.Properties.Resources.unknown;
+            this.pictureBoxConnectionStatus.Location = new System.Drawing.Point(354, 132);
+            this.pictureBoxConnectionStatus.Name = "pictureBoxConnectionStatus";
+            this.pictureBoxConnectionStatus.Size = new System.Drawing.Size(23, 24);
+            this.pictureBoxConnectionStatus.TabIndex = 5;
+            this.pictureBoxConnectionStatus.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
-            this.Controls.Add(this.text);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(448, 295);
+            this.Controls.Add(this.pictureBoxConnectionStatus);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.comboBoxCity);
+            this.Controls.Add(this.comboBoxState);
+            this.Controls.Add(this.textBoxInformation);
+            this.Controls.Add(this.buttonGet);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxConnectionStatus)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.RichTextBox text;
+        private System.Windows.Forms.Button buttonGet;
+        private System.Windows.Forms.RichTextBox textBoxInformation;
+        private System.Windows.Forms.ComboBox comboBoxState;
+        private System.Windows.Forms.ComboBox comboBoxCity;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pictureBoxConnectionStatus;
     }
 }
 

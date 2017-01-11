@@ -1,10 +1,10 @@
 <!DOCTYPE html> 
 <html> 
 	<head> 
-		<title>Koszalin - Prognoza pogody dla Koszalina, Pogoda na 16 dni | TwojaPogoda.pl</title>		<meta charset="UTF-8">
+		<title>Radom - Prognoza pogody dla Radomia, Pogoda na 16 dni | TwojaPogoda.pl</title>		<meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
 <meta name="keywords" content="pogoda, prognoza pogody, warunki pogodowe" >
-<meta name="description" content="Prognoza pogody dla Koszalina na najbliższe dni. Sprawdź jaka pogoda będzie w Koszalinie. Aktualne informacje meteorologiczne dla Koszalina." lang="pl" >		<link href="http://code.jquery.com/ui/1.8.24/themes/redmond/jquery-ui.css" media="screen" rel="stylesheet" type="text/css" >
+<meta name="description" content="Prognoza pogody dla Radomia na najbliższe dni. Sprawdź jaka pogoda będzie w Radomiu. Aktualne informacje meteorologiczne dla Radomia." lang="pl" >		<link href="http://code.jquery.com/ui/1.8.24/themes/redmond/jquery-ui.css" media="screen" rel="stylesheet" type="text/css" >
 <link href="/styles/default-20161230123054.min.css" media="screen" rel="stylesheet" type="text/css" >		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="http://code.jquery.com/ui/1.8.24/jquery-ui.min.js"></script>
 <!--[if lt IE 9]> <script type="text/javascript" src="/addons/html5shiv-3.6.2.js"></script><![endif]-->
@@ -170,7 +170,7 @@
     </li>
 </ul></nav></div>
 	<a id="box-info-line" class="grid_24 alpha omega" href="/polska/mazowieckie/warszawa"><div class="grid_4"><span>Słońce:</span><img src="/images/icons/weather/tiny/dark/s.png" width="31" height="24" alt="" title="Wschód i Zachód Słońca" /><span>07:41 - 15:46</span></div><div class="grid_4"><span>Księżyc:</span><img src="/images/icons/weather/tiny/dark/k.png" width="31" height="24" alt="" title="Wschód i Zachód Księżyca" /><span>15:07 - 06:13</span></div><div class="grid_7">Warszawa</div><div class="grid_3"><span>Teraz:</span><img src="/images/icons/weather/tiny/dark/kchms.png" width="31" height="24" alt="" title="Słaby śnieg" /><span>-7 &deg;C</span></div><div class="grid_3"><span>Dzisiaj:</span><img src="/images/icons/weather/tiny/dark/s.png" width="31" height="24" alt="" title="Bezchmurnie" /><span>-6 &deg;C</span></div><div class="grid_3"><span>Jutro:</span><img src="/images/icons/weather/tiny/dark/chmds.png" width="31" height="24" alt="" title="Deszcz ze śniegiem" /><span>1 &deg;C</span></div></a>	<div id="bb-billboard" class="grid_24 alpha omega"><div class="billboard"><div id="bmone2n-22342.9.2.1"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/2/1/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/2/1/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div></div></div>
-	<div id="breadrumbs" class="grid_24 alpha omega"><div class="grid_18 alpha omega"><ul class="bcrumbs"><li class="begin">Tutaj jesteś:</li><li class="first"><a title="Pogoda Polska – TwojaPogoda.pl" href="/">Pogoda</a></li><li class="even"><a href="/16dni.htm">Polska</a></li><li class="odd"><a href="/polska/zachodniopomorskie">Zachodniopomorskie</a></li><li class="even"><div class="last">Koszalin</div></li><li class="odd"><div class="end"></div></li></ul></div><div class="grid_6 alpha omega banner"><a href="http://www.pogoda360.pl/?utm_source=Display&amp;utm_medium=Pasek&amp;utm_campaign=TwojaPogoda" class="banner" title="Pogoda na żywo" target="_blank">Pogoda na żywo</a></div></div>	<div id="box-cookie" class="grid_24 alpha omega"><p>Ważne! Nasza strona internetowa stosuje pliki cookies, tzw. ciasteczka. Kliknij&nbsp;<a id="box-cookie-close" href="#">zgadzam się</a>, aby niniejsza informacja nie pojawiała się lub kliknij&nbsp;<a href="/polityka-prywatnosci#cookies">polityka prywatności</a>, aby dowiedzieć się, jak zarządzać plikami cookies za pośrednictwem swojej przeglądarki internetowej.</p><script type="text/javascript">box.cookie();</script></div></div>
+	<div id="breadrumbs" class="grid_24 alpha omega"><div class="grid_18 alpha omega"><ul class="bcrumbs"><li class="begin">Tutaj jesteś:</li><li class="first"><a title="Pogoda Polska – TwojaPogoda.pl" href="/">Pogoda</a></li><li class="even"><a href="/16dni.htm">Polska</a></li><li class="odd"><a href="/polska/mazowieckie">Mazowieckie</a></li><li class="even"><div class="last">Radom</div></li><li class="odd"><div class="end"></div></li></ul></div><div class="grid_6 alpha omega banner"><a href="http://www.pogoda360.pl/?utm_source=Display&amp;utm_medium=Pasek&amp;utm_campaign=TwojaPogoda" class="banner" title="Pogoda na żywo" target="_blank">Pogoda na żywo</a></div></div>	<div id="box-cookie" class="grid_24 alpha omega"><p>Ważne! Nasza strona internetowa stosuje pliki cookies, tzw. ciasteczka. Kliknij&nbsp;<a id="box-cookie-close" href="#">zgadzam się</a>, aby niniejsza informacja nie pojawiała się lub kliknij&nbsp;<a href="/polityka-prywatnosci#cookies">polityka prywatności</a>, aby dowiedzieć się, jak zarządzać plikami cookies za pośrednictwem swojej przeglądarki internetowej.</p><script type="text/javascript">box.cookie();</script></div></div>
 
 		<div id="main-top" class="container_24 clearfix">
 			<div id="bb-skyscrapper"><div id="bmone2n-22342.9.10.2"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/10/2/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/10/2/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div></div>
@@ -180,28 +180,28 @@
 			<div class="grid_16">
 				<section class="content">
 					<div id="bmone2n-22342.9.7.10"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/7/10/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/7/10/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div><div id="forecast">
-	<h1 class="blue">Koszalin<span id="box-info-remember" class="remember"></span><script type="text/javascript">box.infoRemember(773);</script></h1>
-	<div id="box-warning-line"><p class="title">Ostrzeżenie</p><p class="warnings">Dla tego województwa przed:<strong>Wiatrem, Śniegiem</strong></p><a href="/ostrzezenia/zachodniopomorskie#info">Zobacz ostrzeżenie</a></div>	<ul class="menu">
+	<h1 class="blue">Radom<span id="box-info-remember" class="remember"></span><script type="text/javascript">box.infoRemember(789);</script></h1>
+	<div id="box-warning-line"><p class="title">Ostrzeżenie</p><p class="warnings">Dla tego województwa przed:<strong>Wiatrem</strong></p><a href="/ostrzezenia/mazowieckie#info">Zobacz ostrzeżenie</a></div>	<ul class="menu">
 	<li class="">
-				<a href="http://www.pogoda360.pl/773?utm_source=twojapogoda&utm_content=koszalin773&utm_medium=menu-link&utm_campaign=pogoda-teraz" target="_blank">teraz</a>
+				<a href="http://www.pogoda360.pl/789?utm_source=twojapogoda&utm_content=radom789&utm_medium=menu-link&utm_campaign=pogoda-teraz" target="_blank">teraz</a>
 	</li>
             			<li class="selected">
-                            <a href="/polska/zachodniopomorskie/koszalin">prognoza ogólna</a>
+                            <a href="/polska/mazowieckie/radom">prognoza ogólna</a>
             		</li>
 			<li class="">
-                            <a href="/polska/zachodniopomorskie/koszalin/godzinowa">godzinowa</a>
+                            <a href="/polska/mazowieckie/radom/godzinowa">godzinowa</a>
             		</li>
 			<li class="">
-                            <a href="/polska/zachodniopomorskie/koszalin/16dniowa">16-dniowa</a>
+                            <a href="/polska/mazowieckie/radom/16dniowa">16-dniowa</a>
             		</li>
 			<li class="">
                             <a href="http://www.twojapogoda.pl/galerie/9,artykuly/6461,prognoza-sezonowa-jaka-bedzie-jesien-zima-i-wiosna" target="_blank">sezonowa</a>
             		</li>
 			<li class="">
-                            <a href="/polska/zachodniopomorskie/koszalin/tematyczne">tematyczna</a>
+                            <a href="/polska/mazowieckie/radom/tematyczne">tematyczna</a>
             		</li>
 			<li class="">
-                            <a href="/polska/zachodniopomorskie/koszalin/mapa">mapa</a>
+                            <a href="/polska/mazowieckie/radom/mapa">mapa</a>
             		</li>
 		</ul>
 	<div class="items poland">
@@ -209,48 +209,48 @@
 		<h3 class="underline">Dziś</h3>
 		<div class="icoinfo underline">
 			<div class="ico">
-				<img src="/images/icons/weather/large/schms.png" alt="słaby śnieg" title="słaby śnieg"/>
+				<img src="/images/icons/weather/large/schl.png" alt="prawie bezchmurnie" title="prawie bezchmurnie"/>
 			</div>
 			<div class="info">
-				<strong>-1</strong><sup>&deg;C</sup><br/>
-				słaby śnieg			</div>
+				<strong>-6</strong><sup>&deg;C</sup><br/>
+				prawie bezchmurnie			</div>
 		</div>
 		<div class="data">
 			<ul>
 				<li>
 					<div class="label">T. odczuw.</div>
-					<div class="value">-9 &deg;C</div>
+					<div class="value">-10 &deg;C</div>
 				</li>
 				<li>
 					<div class="label">Wiatr</div>
 					<div class="value">
-						41 km/h
+						11 km/h
 						<img src="/images/icons/weather/arrows/dark/s.png" alt="s" title="południowy"/>
 					</div>
 				</li>
 				<li>
 					<div class="label">Porywy</div>
-					<div class="value">75 km/h</div>
+					<div class="value">25 km/h</div>
 				</li>
 				<li>
 					<div class="label">Chmury</div>
-					<div class="value">90% nieba</div>
+					<div class="value">10-20% nieba</div>
 				</li>
 				<li>
 					<div class="label">Opady <img src="/images/forecast/ico-water.png" alt="" title="Spodziewana suma opadów"/></div>
-					<div class="value">0.1 mm / 12 h</div>
+					<div class="value">0 mm / 12 h</div>
 				</li>
 				<li>
 					<div class="label">Ciśnienie</div>
-					<div class="value">1003 hPa</div>
+					<div class="value">1018 hPa</div>
 				</li>
 				<li>
 					<div class="label">Wilgotność</div>
-					<div class="value">84 %</div>
+					<div class="value">82 %</div>
 				</li>
 				<li>
 					<div class="label">Termika</div>
-					<div class="value">mroźno i mokro</div>
+					<div class="value">mroźno i sucho</div>
 				</li>
 				<li>
 					<div class="label">Biomet</div>
@@ -263,28 +263,28 @@
 		<h3 class="underline">Noc</h3>
 		<div class="icoinfo underline">
 			<div class="ico">
-				<img src="/images/icons/weather/large/kchmds.png" alt="deszcz ze śniegiem" title="deszcz ze śniegiem"/>
+				<img src="/images/icons/weather/large/kchms.png" alt="słaby śnieg" title="słaby śnieg"/>
 			</div>
 			<div class="info">
-				<strong>0</strong><sup>&deg;C</sup><br/>
-				deszcz ze śniegiem			</div>
+				<strong>-8</strong><sup>&deg;C</sup><br/>
+				słaby śnieg			</div>
 		</div>
 		<div class="data">
 			<ul>
 				<li>
 					<div class="label">T. odczuw.</div>
-					<div class="value">-7 &deg;C</div>
+					<div class="value">-16 &deg;C</div>
 				</li>
 				<li>
 					<div class="label">Wiatr</div>
 					<div class="value">
-						32 km/h
-						<img src="/images/icons/weather/arrows/w.png" alt="w" title="zachodni"/>
+						22 km/h
+						<img src="/images/icons/weather/arrows/sw.png" alt="sw" title="południowo-zachodni"/>
 					</div>
 				</li>
 				<li>
 					<div class="label">Porywy</div>
-					<div class="value">55 km/h</div>
+					<div class="value">45 km/h</div>
 				</li>
 				<li>
 					<div class="label">Chmury</div>
@@ -292,11 +292,11 @@
 				</li>
 				<li>
 					<div class="label">Opady <img src="/images/forecast/ico-water.png" alt="" title="Spodziewana suma opadów"/></div>
-					<div class="value">4 mm / 12 h</div>
+					<div class="value">5 mm / 12 h</div>
 				</li>
 				<li>
 					<div class="label">Ciśnienie</div>
-					<div class="value">992 hPa</div>
+					<div class="value">1004 hPa</div>
 				</li>
 				<li>
 					<div class="label">Wilgotność</div>
@@ -317,11 +317,11 @@
 		<h3 class="underline">Jutro</h3>
 		<div class="icoinfo underline">
 			<div class="ico">
-				<img src="/images/icons/weather/large/schmds.png" alt="deszcz ze śniegiem" title="deszcz ze śniegiem"/>
+				<img src="/images/icons/weather/large/chms.png" alt="śnieg" title="śnieg"/>
 			</div>
 			<div class="info">
-				<strong>3</strong><sup>&deg;C</sup><br/>
-				deszcz ze śniegiem			</div>
+				<strong>1</strong><sup>&deg;C</sup><br/>
+				śnieg			</div>
 		</div>
 		<div class="data">
 			<ul>
@@ -332,29 +332,29 @@
 				<li>
 					<div class="label">Wiatr</div>
 					<div class="value">
-						35 km/h
+						28 km/h
 						<img src="/images/icons/weather/arrows/dark/w.png" alt="w" title="zachodni"/>
 					</div>
 				</li>
 				<li>
 					<div class="label">Porywy</div>
-					<div class="value">60 km/h</div>
+					<div class="value">50 km/h</div>
 				</li>
 				<li>
 					<div class="label">Chmury</div>
-					<div class="value">90% nieba</div>
+					<div class="value">90-100% nieba</div>
 				</li>
 				<li>
 					<div class="label">Opady <img src="/images/forecast/ico-water.png" alt="" title="Spodziewana suma opadów"/></div>
-					<div class="value">0.7 mm / 12 h</div>
+					<div class="value">5 mm / 12 h</div>
 				</li>
 				<li>
 					<div class="label">Ciśnienie</div>
-					<div class="value">996 hPa</div>
+					<div class="value">1006 hPa</div>
 				</li>
 				<li>
 					<div class="label">Wilgotność</div>
-					<div class="value">86 %</div>
+					<div class="value">92 %</div>
 				</li>
 				<li>
 					<div class="label">Termika</div>
@@ -374,10 +374,10 @@
 <div style="margin-left: 7px;">
 	<div id="bmone2n-22342.9.14.10"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/14/10/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/14/10/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div></div>
 
-<div id="box-nearest-from" class="box-replace"><div class="box-links box-mk2 clearfix"><h2>Pobliskie miejsca</h2><ul><li class="item"><a href="/polska/zachodniopomorskie/stare-bielice">Stare Bielice (w odległości 5 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/mscice">Mścice (w odległości 5 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/strzezenice">Strzeżenice (w odległości 7 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/mielno">Mielno (w odległości 9 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/swieszyno">Świeszyno (w odległości 9 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/uniescie">Unieście (w odległości 9 km)</a></li></ul></div></div>
-<div id="box-calendar-from" class="box-replace"><div id="box-calendar" class="box-mk2 clearfix"><h2>Kalendarium</h2><div class="content"><div class="left"><p class="today">Dziś jest</p><p>11 dzień roku, do końca roku zostało 354 dni.</p><div class="sun"><div class="hr"><p>Wschód Słońca: 08:10</p><p>Zachód Słońca: 15:55</p><p>Długość dnia: 7h 45min</p></div></div><div class="moon" style="background-image:url('/images/icons/moon/29.png')"><div class="hr"><p>Wschód Księżyca: 15:18</p><p>Zachód Księżyca: 06:42</p><p>Długość nocy: 16h 14min</p><p>Faza Księżyca: do pełni</p></div></div></div><div class="right"><p class="year">2017</p><p class="wday">Środa</p><p class="mday">11</p><p class="month">stycznia</p><p class="fests">Imieniny: Honaraty, Teodozjusza, Matyldy, Feliksa, Krzesimira</p></div></div><a class="calendar-ad" href="http://gry-online.poszkole.pl/kategoria,Pogodowe,18.html?utm_source=twojapogoda&utm_medium=banner&utm_campaign=gryposzkole" target="_blank"></a></div></div>
-<div id="box-risk-from" class="box-replace"><div id="box-risk" class="box-mk2"><h2>Ryzyko zjawisk</h2><div class="content"><table><tr><td class="text desc">Duże</td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 39px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 117px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 117px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td></tr><tr><td class="text desc">Średnie</td></tr><tr><td class="text desc">Małe</td></tr><tr class="titles"><td>&nbsp;</td><td class="text">Ryzyko<br/>grypy</td><td class="text">Ryzyko<br/>smogu</td><td class="text">Ryzyko<br/>suszy</td><td class="text">Ryzyko<br/>powodzi</td><td class="text">Ryzyko<br/>mrozu</td></tr></table></div></div></div>
-<script type="text/javascript">if (typeof window.tpmk2 !== "object") {window.tpmk2 = {};} window.tpmk2.city = {"id":773,"name":"Koszalin","url":"\/polska\/zachodniopomorskie\/koszalin","lng":54.2,"lat":16.15};</script>				</section>
+<div id="box-nearest-from" class="box-replace"><div class="box-links box-mk2 clearfix"><h2>Pobliskie miejsca</h2><ul><li class="item"><a href="/polska/mazowieckie/skaryszew">Skaryszew (w odległości 11 km)</a></li><li class="item"><a href="/polska/mazowieckie/wolanow">Wolanów (w odległości 12 km)</a></li><li class="item"><a href="/polska/mazowieckie/jedlnia-letnisko">Jedlnia-Letnisko (w odległości 13 km)</a></li><li class="item"><a href="/polska/mazowieckie/jedlinsk">Jedlińsk (w odległości 14 km)</a></li><li class="item"><a href="/polska/mazowieckie/oronsko">Orońsko (w odległości 15 km)</a></li><li class="item"><a href="/polska/mazowieckie/gozd">Gózd (w odległości 16 km)</a></li></ul></div></div>
+<div id="box-calendar-from" class="box-replace"><div id="box-calendar" class="box-mk2 clearfix"><h2>Kalendarium</h2><div class="content"><div class="left"><p class="today">Dziś jest</p><p>11 dzień roku, do końca roku zostało 354 dni.</p><div class="sun"><div class="hr"><p>Wschód Słońca: 07:36</p><p>Zachód Słońca: 15:49</p><p>Długość dnia: 8h 12min</p></div></div><div class="moon" style="background-image:url('/images/icons/moon/30.png')"><div class="hr"><p>Wschód Księżyca: 15:10</p><p>Zachód Księżyca: 06:09</p><p>Długość nocy: 15h 46min</p><p>Faza Księżyca: pełnia</p></div></div></div><div class="right"><p class="year">2017</p><p class="wday">Środa</p><p class="mday">11</p><p class="month">stycznia</p><p class="fests">Imieniny: Honaraty, Teodozjusza, Matyldy, Feliksa, Krzesimira</p></div></div><a class="calendar-ad" href="http://gry-online.poszkole.pl/kategoria,Pogodowe,18.html?utm_source=twojapogoda&utm_medium=banner&utm_campaign=gryposzkole" target="_blank"></a></div></div>
+<div id="box-risk-from" class="box-replace"><div id="box-risk" class="box-mk2"><h2>Ryzyko zjawisk</h2><div class="content"><table><tr><td class="text desc">Duże</td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 117px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 117px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td></tr><tr><td class="text desc">Średnie</td></tr><tr><td class="text desc">Małe</td></tr><tr class="titles"><td>&nbsp;</td><td class="text">Ryzyko<br/>grypy</td><td class="text">Ryzyko<br/>smogu</td><td class="text">Ryzyko<br/>suszy</td><td class="text">Ryzyko<br/>powodzi</td><td class="text">Ryzyko<br/>mrozu</td></tr></table></div></div></div>
+<script type="text/javascript">if (typeof window.tpmk2 !== "object") {window.tpmk2 = {};} window.tpmk2.city = {"id":789,"name":"Radom","url":"\/polska\/mazowieckie\/radom","lng":51.4,"lat":21.15};</script>				</section>
 			</div>
 
 			<aside class="grid_8">
@@ -463,7 +463,7 @@
 <div id="bmone2t-22342.9.2.1" style="display:none"><script type="text/javascript">bmone2n.makeAd('22342.9.2.1');</script></div>
 <div id="bmone2t-22342.9.14.10" style="display:none"><script type="text/javascript">bmone2n.makeAd('22342.9.14.10');</script></div>
 <div id="bmone2t-22342.9.10.2" style="display:none"><script type="text/javascript">bmone2n.makeAd('22342.9.10.2');</script></div>
-<script type="text/javascript">bmone2n.moveAd();</script><script type="text/javascript" src="http://s2.hit.stat24.com/_1484170460240/script.js?id=d1OVTYe4SeRQZcVkJDfzkMdvLa.YlyeIlv5.0YSJIsP.c7/l=11"></script>
+<script type="text/javascript">bmone2n.moveAd();</script><script type="text/javascript" src="http://s2.hit.stat24.com/_1484172152698/script.js?id=d1OVTYe4SeRQZcVkJDfzkMdvLa.YlyeIlv5.0YSJIsP.c7/l=11"></script>
 <script type="text/javascript">$(".unveil").unveil();</script>
 	</body>
 </html>
