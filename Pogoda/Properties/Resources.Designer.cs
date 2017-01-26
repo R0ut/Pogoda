@@ -84,10 +84,10 @@ namespace Pogoda.Properties {
         ///   Looks up a localized string similar to &lt;!DOCTYPE html&gt; 
         ///&lt;html&gt; 
         ///	&lt;head&gt; 
-        ///		&lt;title&gt;Radom - Prognoza pogody dla Radomia, Pogoda na 16 dni | TwojaPogoda.pl&lt;/title&gt;		&lt;meta charset=&quot;UTF-8&quot;&gt;
+        ///		&lt;title&gt;Koszalin - Prognoza pogody dla Koszalina, Pogoda na 16 dni | TwojaPogoda.pl&lt;/title&gt;		&lt;meta charset=&quot;UTF-8&quot;&gt;
         ///&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; &gt;
         ///&lt;meta name=&quot;keywords&quot; content=&quot;pogoda, prognoza pogody, warunki pogodowe&quot; &gt;
-        ///&lt;meta name=&quot;description&quot; content=&quot;Prognoza pogody dla Radomia na najbliższe dni. Sprawdź jaka pogoda będzie w Radomiu. Aktualne informacje meteorologiczne dla Radomia.&quot; lang=&quot;pl&quot; &gt;		&lt;link href=&quot;http://code.jquery.com/u [rest of string was truncated]&quot;;.
+        ///&lt;meta name=&quot;description&quot; content=&quot;Prognoza pogody dla Koszalina na najbliĹĽsze dni. SprawdĹş jaka pogoda bÄ™dzie w Koszalinie. Aktualne informacje meteorologiczne dla Koszalina.&quot; lang=&quot;pl&quot; &gt;		&lt;link href=&quot;http://co [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string html {
             get {
@@ -96,7 +96,7 @@ namespace Pogoda.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=&amp;deg).
+        ///   Looks up a localized string similar to (?&lt;=strong&gt;)(.*)(?=&lt;/strong&gt;).
         /// </summary>
         internal static string patern1 {
             get {
@@ -105,7 +105,7 @@ namespace Pogoda.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(\s*.*)(?=km).
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string patern2 {
             get {
@@ -114,7 +114,7 @@ namespace Pogoda.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=% nieba).
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string patern3 {
             get {
@@ -123,7 +123,7 @@ namespace Pogoda.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=mm / 12).
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string patern4 {
             get {
@@ -132,7 +132,7 @@ namespace Pogoda.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=hPa).
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string patern5 {
             get {
@@ -141,7 +141,7 @@ namespace Pogoda.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to (?&lt;=&lt;div class=&quot;value&quot;&gt;)(.*)(?=%&lt;/div&gt;).
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string patern6 {
             get {

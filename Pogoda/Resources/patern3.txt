@@ -1,1 +1,1 @@
-(?<=<div class="value">)(.*)(?=% nieba)
+(?<=value">)(.*)(?=% nieba)

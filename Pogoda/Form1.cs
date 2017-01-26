@@ -39,26 +39,24 @@ namespace Pogoda
 
         private void button1_Click(object sender, EventArgs e)
         {
-               
+
 
             if (connection.Internet() == true)
             {
-               // pictureBoxConnectionStatus.Image = Image.FromFile("c:/Users/Janek/Documents/Visual Studio 2015/Projects/Pogoda/web/good.png");
                 pictureBoxConnectionStatus.Image = Properties.Resources.good;
                 getHtml.side(comboBoxState.Text, comboBoxCity.Text);
                 regEx.LoadFile();
                 textBoxInformation.Text = regEx.Found;
-                
+
             }
             else
             {
-                // pictureBoxConnectionStatus.Image = Image.FromFile("c:/Users/Janek/Documents/Visual Studio 2015/Projects/Pogoda/web/bad.png");
                 pictureBoxConnectionStatus.Image = Properties.Resources.bad;
             }
-    
+
         }
 
-       private void clearBox()
+        private void clearBox()
         {
             comboBoxCity.Text = "";
             comboBoxCity.Items.Clear();
@@ -79,12 +77,12 @@ namespace Pogoda
                 if (comboBoxState.SelectedItem.ToString() == "zachodniopomorskie")
                 {
                     clearBox();
-                    
+
                     comboBoxCity.Items.AddRange(new object[] {"koszalin",
                         "kolobrzeg",
                         "szczecin",
                         "szczecinek"});
-                    
+
                 }
                 else if (comboBoxState.SelectedItem.ToString() == "mazowieckie")
                 {
@@ -97,14 +95,14 @@ namespace Pogoda
                 }
 
             }
-            
+
         }
 
-       
+
 
         private void comboBoxCity_SelectedIndexChanged(object sender, EventArgs e)
         {
-                buttonGet.Enabled = true;
+            buttonGet.Enabled = true;
         }
     }
 }

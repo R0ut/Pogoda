@@ -1,1 +1,1 @@
-(?<=<div class="value">)(.*)(?=&deg)
+(?<=strong>)(.*)(?=</strong>)

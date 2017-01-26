@@ -7,7 +7,7 @@ using System.Net;
 using System.IO;
 using System.Windows.Forms;
 using System.Resources;
-
+using System.Reflection;
 namespace Pogoda
 {
     class GetHtml
@@ -25,7 +25,8 @@ namespace Pogoda
                 StreamReader sr = new StreamReader(response.GetResponseStream());
                 html = sr.ReadToEnd();
                 sr.Close();
-            }catch(Exception ea)
+            }
+            catch (Exception ea)
             {
                 MessageBox.Show(ea.ToString());
             }
@@ -33,8 +34,10 @@ namespace Pogoda
 
             try
             {
+                
                 System.IO.File.WriteAllText(@"C:\Users\Janek\Documents\Visual Studio 2015\Projects\Pogoda\Pogoda\Resources\html.txt", html);
-            }catch(Exception er)
+            }
+            catch (Exception er)
             {
                 MessageBox.Show(er.ToString());
             }

@@ -1,1 +1,1 @@
-(?<=<div class="value">)(\s*.*)(?=km)
+(?<="value">)(.*)(?=km/h)

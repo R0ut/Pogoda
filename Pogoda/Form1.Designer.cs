@@ -91,7 +91,8 @@
             this.pictureBoxConnectionStatus.Image = global::Pogoda.Properties.Resources.unknown;
             this.pictureBoxConnectionStatus.Location = new System.Drawing.Point(354, 132);
             this.pictureBoxConnectionStatus.Name = "pictureBoxConnectionStatus";
-            this.pictureBoxConnectionStatus.Size = new System.Drawing.Size(23, 24);
+            this.pictureBoxConnectionStatus.Size = new System.Drawing.Size(31, 29);
+            this.pictureBoxConnectionStatus.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBoxConnectionStatus.TabIndex = 5;
             this.pictureBoxConnectionStatus.TabStop = false;
             // 
@@ -106,8 +107,9 @@
             this.Controls.Add(this.comboBoxState);
             this.Controls.Add(this.textBoxInformation);
             this.Controls.Add(this.buttonGet);
+            this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Pogoda";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxConnectionStatus)).EndInit();
             this.ResumeLayout(false);
