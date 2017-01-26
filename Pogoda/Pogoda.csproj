@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connection.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +68,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -80,6 +82,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\html.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patern1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patern2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patern3.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patern4.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patern5.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patern6.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
