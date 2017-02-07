@@ -18,7 +18,7 @@ namespace Pogoda
             //pobieranie kodu html ze strony
             try
             {
-                string url = "http://www.twojapogoda.pl/polska/" + woj + "/" + miasto;
+                string url = "http://www.twojapogoda.pl/polska/" + Replice(woj) + "/" + Replice(miasto);
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
                 request.Proxy = null;
                 HttpWebResponse response = (HttpWebResponse)request.GetResponse();
@@ -42,5 +42,22 @@ namespace Pogoda
                 MessageBox.Show(er.ToString());
             }
         }
+
+        private string Replice(string str)
+        {
+            string input = str.Trim().ToLower();
+            string tmp = input.Replace("ą", "a");
+            tmp = tmp.Replace("ć", "c");
+            tmp = tmp.Replace("ę", "e");
+            tmp = tmp.Replace("ł", "l");
+            tmp = tmp.Replace("ń", "n");
+            tmp = tmp.Replace("ó", "o");
+            tmp = tmp.Replace("ś", "s");
+            tmp = tmp.Replace("ź", "z");
+            tmp = tmp.Replace("ż", "z");
+            string output = tmp.Replace(" ", "-");
+            return output;
+        }
+
     }
 }

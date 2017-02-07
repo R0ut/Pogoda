@@ -1,14 +1,14 @@
 <!DOCTYPE html> 
 <html> 
 	<head> 
-		<title>Koszalin - Prognoza pogody dla Koszalina, Pogoda na 16 dni | TwojaPogoda.pl</title>		<meta charset="UTF-8">
+		<title>Bielawa - Prognoza pogody dla Bielawy, Pogoda na 16 dni | TwojaPogoda.pl</title>		<meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
 <meta name="keywords" content="pogoda, prognoza pogody, warunki pogodowe" >
-<meta name="description" content="Prognoza pogody dla Koszalina na najbliższe dni. Sprawdź jaka pogoda będzie w Koszalinie. Aktualne informacje meteorologiczne dla Koszalina." lang="pl" >		<link href="http://code.jquery.com/ui/1.8.24/themes/redmond/jquery-ui.css" media="screen" rel="stylesheet" type="text/css" >
-<link href="/styles/default-20170123170017.min.css" media="screen" rel="stylesheet" type="text/css" >		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<meta name="description" content="Prognoza pogody dla Bielawy na najbliższe dni. Sprawdź jaka pogoda będzie w Bielawie. Aktualne informacje meteorologiczne dla Bielawy." lang="pl" >		<link href="http://code.jquery.com/ui/1.8.24/themes/redmond/jquery-ui.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/styles/default-20170207145013.min.css" media="screen" rel="stylesheet" type="text/css" >		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="http://code.jquery.com/ui/1.8.24/jquery-ui.min.js"></script>
 <!--[if lt IE 9]> <script type="text/javascript" src="/addons/html5shiv-3.6.2.js"></script><![endif]-->
-<script type="text/javascript" src="/scripts/default-20170123170017.min.js"></script>		<script type="text/javascript">gemius_hit("0sI1ZCL9QSPALcJ9P2V3uPTYrkKF9I9K5JXwGQxWqmD.k7");pp_gemius_hit("0nI632ekL9Rpn8q.OmS0lXamLb9BoGc1hVoy2DwFwXb.T7");</script>	</head>
+<script type="text/javascript" src="/scripts/default-20170207145013.min.js"></script>		<script type="text/javascript">gemius_hit("0sI1ZCL9QSPALcJ9P2V3uPTYrkKF9I9K5JXwGQxWqmD.k7");pp_gemius_hit("0nI632ekL9Rpn8q.OmS0lXamLb9BoGc1hVoy2DwFwXb.T7");</script>	</head>
 	<body> 
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5FJ4FJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5FJ4FJ');</script>
 <header id="header" class="container_24 clearfix">
@@ -169,8 +169,8 @@
         <a href="/linki">Linki</a>
     </li>
 </ul></nav></div>
-	<a id="box-info-line" class="grid_24 alpha omega" href="/polska/mazowieckie/warszawa"><div class="grid_4"><span>Słońce:</span><img src="/images/icons/weather/tiny/dark/s.png" width="31" height="24" alt="" title="Wschód i Zachód Słońca" /><span>07:25 - 16:11</span></div><div class="grid_4"><span>Księżyc:</span><img src="/images/icons/weather/tiny/dark/k.png" width="31" height="24" alt="" title="Wschód i Zachód Księżyca" /><span>06:03 - 14:54</span></div><div class="grid_7">Warszawa</div><div class="grid_3"><span>Teraz:</span><img src="/images/icons/weather/tiny/dark/kjhaa.png" width="31" height="24" alt="" title="Zachmurzenie małe" /><span>-5 &deg;C</span></div><div class="grid_3"><span>Dzisiaj:</span><img src="/images/icons/weather/tiny/dark/sjhaa.png" width="31" height="24" alt="" title="Zachmurzenie małe" /><span>-2 &deg;C</span></div><div class="grid_3"><span>Jutro:</span><img src="/images/icons/weather/tiny/dark/schl.png" width="31" height="24" alt="" title="Prawie bezchmurnie" /><span>-1 &deg;C</span></div></a>	<div id="bb-billboard" class="grid_24 alpha omega"><div class="billboard"><div id="bmone2n-22342.9.2.1"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/2/1/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/2/1/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div></div></div>
-	<div id="breadrumbs" class="grid_24 alpha omega"><div class="grid_18 alpha omega"><ul class="bcrumbs"><li class="begin">Tutaj jesteś:</li><li class="first"><a title="Pogoda Polska – TwojaPogoda.pl" href="/">Pogoda</a></li><li class="even"><a href="/16dni.htm">Polska</a></li><li class="odd"><a href="/polska/zachodniopomorskie">Zachodniopomorskie</a></li><li class="even"><div class="last">Koszalin</div></li><li class="odd"><div class="end"></div></li></ul></div><div class="grid_6 alpha omega banner"><a href="http://www.pogoda360.pl/?utm_source=Display&amp;utm_medium=Pasek&amp;utm_campaign=TwojaPogoda" class="banner" title="Pogoda na żywo" target="_blank">Pogoda na żywo</a></div></div>	<div id="box-cookie" class="grid_24 alpha omega"><p>Ważne! Nasza strona internetowa stosuje pliki cookies, tzw. ciasteczka. Kliknij&nbsp;<a id="box-cookie-close" href="#">zgadzam się</a>, aby niniejsza informacja nie pojawiała się lub kliknij&nbsp;<a href="/polityka-prywatnosci#cookies">polityka prywatności</a>, aby dowiedzieć się, jak zarządzać plikami cookies za pośrednictwem swojej przeglądarki internetowej.</p><script type="text/javascript">box.cookie();</script></div></div>
+	<a id="box-info-line" class="grid_24 alpha omega" href="/polska/mazowieckie/warszawa"><div class="grid_4"><span>Słońce:</span><img src="/images/icons/weather/tiny/dark/s.png" width="31" height="24" alt="" title="Wschód i Zachód Słońca" /><span>07:06 - 16:33</span></div><div class="grid_4"><span>Księżyc:</span><img src="/images/icons/weather/tiny/dark/k.png" width="31" height="24" alt="" title="Wschód i Zachód Księżyca" /><span>12:54 - 03:58</span></div><div class="grid_7">Warszawa</div><div class="grid_3"><span>Teraz:</span><img src="/images/icons/weather/tiny/dark/chms.png" width="31" height="24" alt="" title="śnieg" /><span>-7 &deg;C</span></div><div class="grid_3"><span>Dzisiaj:</span><img src="/images/icons/weather/tiny/dark/chms.png" width="31" height="24" alt="" title="śnieg" /><span>-5 &deg;C</span></div><div class="grid_3"><span>Jutro:</span><img src="/images/icons/weather/tiny/dark/chms.png" width="31" height="24" alt="" title="śnieg" /><span>-7 &deg;C</span></div></a>	<div id="bb-billboard" class="grid_24 alpha omega"><div class="billboard"><div id="bmone2n-22342.9.2.1"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/2/1/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/2/1/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div></div></div>
+	<div id="breadrumbs" class="grid_24 alpha omega"><div class="grid_18 alpha omega"><ul class="bcrumbs"><li class="begin">Tutaj jesteś:</li><li class="first"><a title="Pogoda Polska – TwojaPogoda.pl" href="/">Pogoda</a></li><li class="even"><a href="/16dni.htm">Polska</a></li><li class="odd"><a href="/polska/dolnoslaskie">Dolnośląskie</a></li><li class="even"><div class="last">Bielawa</div></li><li class="odd"><div class="end"></div></li></ul></div><div class="grid_6 alpha omega banner"><a href="http://www.pogoda360.pl/?utm_source=Display&amp;utm_medium=Pasek&amp;utm_campaign=TwojaPogoda" class="banner" title="Pogoda na żywo" target="_blank">Pogoda na żywo</a></div></div>	<div id="box-cookie" class="grid_24 alpha omega"><p>Ważne! Nasza strona internetowa stosuje pliki cookies, tzw. ciasteczka. Kliknij&nbsp;<a id="box-cookie-close" href="#">zgadzam się</a>, aby niniejsza informacja nie pojawiała się lub kliknij&nbsp;<a href="/polityka-prywatnosci#cookies">polityka prywatności</a>, aby dowiedzieć się, jak zarządzać plikami cookies za pośrednictwem swojej przeglądarki internetowej.</p><script type="text/javascript">box.cookie();</script></div></div>
 
 		<div id="main-top" class="container_24 clearfix">
 			<div id="bb-skyscrapper"><div id="bmone2n-22342.9.10.2"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/10/2/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/10/2/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div></div>
@@ -180,28 +180,28 @@
 			<div class="grid_16">
 				<section class="content">
 					<div id="bmone2n-22342.9.7.10"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/7/10/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/7/10/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div><div id="forecast">
-	<h1 class="blue">Koszalin<span id="box-info-remember" class="remember"></span><script type="text/javascript">box.infoRemember(773);</script></h1>
+	<h1 class="blue">Bielawa<span id="box-info-remember" class="remember"></span><script type="text/javascript">box.infoRemember(726);</script></h1>
 		<ul class="menu">
 	<li class="">
-				<a href="http://www.pogoda360.pl/773?utm_source=twojapogoda&utm_content=koszalin773&utm_medium=menu-link&utm_campaign=pogoda-teraz" target="_blank">teraz</a>
+				<a href="http://www.pogoda360.pl/726?utm_source=twojapogoda&utm_content=bielawa726&utm_medium=menu-link&utm_campaign=pogoda-teraz" target="_blank">teraz</a>
 	</li>
             			<li class="selected">
-                            <a href="/polska/zachodniopomorskie/koszalin">prognoza ogólna</a>
+                            <a href="/polska/dolnoslaskie/bielawa">prognoza ogólna</a>
             		</li>
 			<li class="">
-                            <a href="/polska/zachodniopomorskie/koszalin/godzinowa">godzinowa</a>
+                            <a href="/polska/dolnoslaskie/bielawa/godzinowa">godzinowa</a>
             		</li>
 			<li class="">
-                            <a href="/polska/zachodniopomorskie/koszalin/16dniowa">16-dniowa</a>
+                            <a href="/polska/dolnoslaskie/bielawa/16dniowa">16-dniowa</a>
             		</li>
 			<li class="">
                             <a href="http://www.twojapogoda.pl/galerie/9,artykuly/6461,prognoza-sezonowa-jaka-bedzie-jesien-zima-i-wiosna" target="_blank">sezonowa</a>
             		</li>
 			<li class="">
-                            <a href="/polska/zachodniopomorskie/koszalin/tematyczne">tematyczna</a>
+                            <a href="/polska/dolnoslaskie/bielawa/tematyczne">tematyczna</a>
             		</li>
 			<li class="">
-                            <a href="/polska/zachodniopomorskie/koszalin/mapa">mapa</a>
+                            <a href="/polska/dolnoslaskie/bielawa/mapa">mapa</a>
             		</li>
 		</ul>
 	<div class="items poland">
@@ -209,23 +209,23 @@
 		<h3 class="underline">Dziś</h3>
 		<div class="icoinfo underline">
 			<div class="ico">
-				<img src="/images/icons/weather/large/schlch.png" alt="zachmurzenie umiarkowane" title="zachmurzenie umiarkowane"/>
+				<img src="/images/icons/weather/large/chms.png" alt="śnieg" title="śnieg"/>
 			</div>
 			<div class="info">
-				<strong>3</strong><sup>&deg;C</sup><br/>
-				zachmurzenie umiarkowane			</div>
+				<strong>-3</strong><sup>&deg;C</sup><br/>
+				śnieg			</div>
 		</div>
 		<div class="data">
 			<ul>
 				<li>
 					<div class="label">T. odczuw.</div>
-					<div class="value">-1 &deg;C</div>
+					<div class="value">-6 &deg;C</div>
 				</li>
 				<li>
 					<div class="label">Wiatr</div>
 					<div class="value">
-						12 km/h
-						<img src="/images/icons/weather/arrows/dark/sw.png" alt="sw" title="południowo-zachodni"/>
+						10 km/h
+						<img src="/images/icons/weather/arrows/dark/ne.png" alt="ne" title="północno-wschodni"/>
 					</div>
 				</li>
 				<li>
@@ -234,27 +234,27 @@
 				</li>
 				<li>
 					<div class="label">Chmury</div>
-					<div class="value">40-50% nieba</div>
+					<div class="value">90-100% nieba</div>
 				</li>
 				<li>
 					<div class="label">Opady <img src="/images/forecast/ico-water.png" alt="" title="Spodziewana suma opadów"/></div>
-					<div class="value">0 mm / 12 h</div>
+					<div class="value">0.6 mm / 12 h</div>
 				</li>
 				<li>
 					<div class="label">Ciśnienie</div>
-					<div class="value">1033 hPa</div>
+					<div class="value">1023 hPa</div>
 				</li>
 				<li>
 					<div class="label">Wilgotność</div>
-					<div class="value">87 %</div>
+					<div class="value">79 %</div>
 				</li>
 				<li>
 					<div class="label">Termika</div>
-					<div class="value">zimno i sucho</div>
+					<div class="value">mroźno i mokro</div>
 				</li>
 				<li>
 					<div class="label">Biomet</div>
-					<div class="value">korzystny</div>
+					<div class="value">niekorzystny</div>
 				</li>
 			</ul>
 		</div>
@@ -263,48 +263,48 @@
 		<h3 class="underline">Noc</h3>
 		<div class="icoinfo underline">
 			<div class="ico">
-				<img src="/images/icons/weather/large/kjhaa.png" alt="zachmurzenie małe" title="zachmurzenie małe"/>
+				<img src="/images/icons/weather/large/kchms.png" alt="słaby śnieg" title="słaby śnieg"/>
 			</div>
 			<div class="info">
-				<strong>-4</strong><sup>&deg;C</sup><br/>
-				zachmurzenie małe			</div>
+				<strong>-6</strong><sup>&deg;C</sup><br/>
+				słaby śnieg			</div>
 		</div>
 		<div class="data">
 			<ul>
 				<li>
 					<div class="label">T. odczuw.</div>
-					<div class="value">-7 &deg;C</div>
+					<div class="value">-11 &deg;C</div>
 				</li>
 				<li>
 					<div class="label">Wiatr</div>
 					<div class="value">
-						9 km/h
-						<img src="/images/icons/weather/arrows/sw.png" alt="sw" title="południowo-zachodni"/>
+						11 km/h
+						<img src="/images/icons/weather/arrows/ne.png" alt="ne" title="północno-wschodni"/>
 					</div>
 				</li>
 				<li>
 					<div class="label">Porywy</div>
-					<div class="value">20 km/h</div>
+					<div class="value">25 km/h</div>
 				</li>
 				<li>
 					<div class="label">Chmury</div>
-					<div class="value">20-30% nieba</div>
+					<div class="value">90% nieba</div>
 				</li>
 				<li>
 					<div class="label">Opady <img src="/images/forecast/ico-water.png" alt="" title="Spodziewana suma opadów"/></div>
-					<div class="value">0 mm / 12 h</div>
+					<div class="value">0.6 mm / 12 h</div>
 				</li>
 				<li>
 					<div class="label">Ciśnienie</div>
-					<div class="value">1031 hPa</div>
+					<div class="value">1025 hPa</div>
 				</li>
 				<li>
 					<div class="label">Wilgotność</div>
-					<div class="value">94 %</div>
+					<div class="value">92 %</div>
 				</li>
 				<li>
 					<div class="label">Termika</div>
-					<div class="value">mroźno i sucho</div>
+					<div class="value">mroźno i mokro</div>
 				</li>
 				<li>
 					<div class="label">Biomet</div>
@@ -317,23 +317,23 @@
 		<h3 class="underline">Jutro</h3>
 		<div class="icoinfo underline">
 			<div class="ico">
-				<img src="/images/icons/weather/large/s.png" alt="bezchmurnie" title="bezchmurnie"/>
+				<img src="/images/icons/weather/large/chms.png" alt="śnieg" title="śnieg"/>
 			</div>
 			<div class="info">
-				<strong>4</strong><sup>&deg;C</sup><br/>
-				bezchmurnie			</div>
+				<strong>-4</strong><sup>&deg;C</sup><br/>
+				śnieg			</div>
 		</div>
 		<div class="data">
 			<ul>
 				<li>
 					<div class="label">T. odczuw.</div>
-					<div class="value">0 &deg;C</div>
+					<div class="value">-9 &deg;C</div>
 				</li>
 				<li>
 					<div class="label">Wiatr</div>
 					<div class="value">
-						14 km/h
-						<img src="/images/icons/weather/arrows/dark/s.png" alt="s" title="południowy"/>
+						13 km/h
+						<img src="/images/icons/weather/arrows/dark/e.png" alt="e" title="wschodni"/>
 					</div>
 				</li>
 				<li>
@@ -342,11 +342,11 @@
 				</li>
 				<li>
 					<div class="label">Chmury</div>
-					<div class="value">0% nieba</div>
+					<div class="value">90-100% nieba</div>
 				</li>
 				<li>
 					<div class="label">Opady <img src="/images/forecast/ico-water.png" alt="" title="Spodziewana suma opadów"/></div>
-					<div class="value">0 mm / 12 h</div>
+					<div class="value">0.7 mm / 12 h</div>
 				</li>
 				<li>
 					<div class="label">Ciśnienie</div>
@@ -354,15 +354,15 @@
 				</li>
 				<li>
 					<div class="label">Wilgotność</div>
-					<div class="value">62 %</div>
+					<div class="value">78 %</div>
 				</li>
 				<li>
 					<div class="label">Termika</div>
-					<div class="value">zimno i sucho</div>
+					<div class="value">mroźno i mokro</div>
 				</li>
 				<li>
 					<div class="label">Biomet</div>
-					<div class="value">korzystny</div>
+					<div class="value">niekorzystny</div>
 				</li>
 			</ul>
 		</div>
@@ -374,10 +374,10 @@
 <div style="margin-left: 7px;">
 	<div id="bmone2n-22342.9.14.10"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/14/10/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/14/10/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div></div>
 
-<div id="box-nearest-from" class="box-replace"><div class="box-links box-mk2 clearfix"><h2>Pobliskie miejsca</h2><ul><li class="item"><a href="/polska/zachodniopomorskie/stare-bielice">Stare Bielice (w odległości 5 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/mscice">Mścice (w odległości 5 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/strzezenice">Strzeżenice (w odległości 7 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/mielno">Mielno (w odległości 9 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/swieszyno">Świeszyno (w odległości 9 km)</a></li><li class="item"><a href="/polska/zachodniopomorskie/uniescie">Unieście (w odległości 9 km)</a></li></ul></div></div>
-<div id="box-calendar-from" class="box-replace"><div id="box-calendar" class="box-mk2 clearfix"><h2>Kalendarium</h2><div class="content"><div class="left"><p class="today">Dziś jest</p><p>26 dzień roku, do końca roku zostało 339 dni.</p><div class="sun"><div class="hr"><p>Wschód Słońca: 07:53</p><p>Zachód Słońca: 16:22</p><p>Długość dnia: 8h 29min</p></div></div><div class="moon" style="background-image:url('/images/icons/moon/14.png')"><div class="hr"><p>Wschód Księżyca: 06:32</p><p>Zachód Księżyca: 15:06</p><p>Długość nocy: 15h 29min</p><p>Faza Księżyca: do nowiu</p></div></div></div><div class="right"><p class="year">2017</p><p class="wday">Czwartek</p><p class="mday">26</p><p class="month">stycznia</p><p class="fests">Imieniny: Pauli, Polikarpa, Skarbimira, Tytusa</p></div></div><a class="calendar-ad" href="http://gry-online.poszkole.pl/kategoria,Pogodowe,18.html?utm_source=twojapogoda&utm_medium=banner&utm_campaign=gryposzkole" target="_blank"></a></div></div>
-<div id="box-risk-from" class="box-replace"><div id="box-risk" class="box-mk2"><h2>Ryzyko zjawisk</h2><div class="content"><table><tr><td class="text desc">Duże</td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 78px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 117px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 117px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td></tr><tr><td class="text desc">Średnie</td></tr><tr><td class="text desc">Małe</td></tr><tr class="titles"><td>&nbsp;</td><td class="text">Ryzyko<br/>grypy</td><td class="text">Ryzyko<br/>smogu</td><td class="text">Ryzyko<br/>suszy</td><td class="text">Ryzyko<br/>powodzi</td><td class="text">Ryzyko<br/>mrozu</td></tr></table></div></div></div>
-<script type="text/javascript">if (typeof window.tpmk2 !== "object") {window.tpmk2 = {};} window.tpmk2.city = {"id":773,"name":"Koszalin","url":"\/polska\/zachodniopomorskie\/koszalin","lng":54.2,"lat":16.15};</script>				</section>
+<div id="box-nearest-from" class="box-replace"><div class="box-links box-mk2 clearfix"><h2>Pobliskie miejsca</h2><ul><li class="item"><a href="/polska/dolnoslaskie/pieszyce">Pieszyce (w odległości 5 km)</a></li><li class="item"><a href="/polska/dolnoslaskie/dzierzoniow">Dzierżoniów (w odległości 6 km)</a></li><li class="item"><a href="/polska/dolnoslaskie/pilawa-gorna">Piława Górna (w odległości 9 km)</a></li><li class="item"><a href="/polska/dolnoslaskie/stoszowice">Stoszowice (w odległości 12 km)</a></li><li class="item"><a href="/polska/dolnoslaskie/walim">Walim (w odległości 12 km)</a></li><li class="item"><a href="/polska/dolnoslaskie/nowa-ruda">Nowa Ruda (w odległości 14 km)</a></li></ul></div></div>
+<div id="box-calendar-from" class="box-replace"><div id="box-calendar" class="box-mk2 clearfix"><h2>Kalendarium</h2><div class="content"><div class="left"><p class="today">Dziś jest</p><p>38 dzień roku, do końca roku zostało 327 dni.</p><div class="sun"><div class="hr"><p>Wschód Słońca: 07:19</p><p>Zachód Słońca: 16:55</p><p>Długość dnia: 9h 35min</p></div></div><div class="moon" style="background-image:url('/images/icons/moon/28.png')"><div class="hr"><p>Wschód Księżyca: 13:19</p><p>Zachód Księżyca: 04:10</p><p>Długość nocy: 14h 23min</p><p>Faza Księżyca: do pełni</p></div></div></div><div class="right"><p class="year">2017</p><p class="wday">Wtorek</p><p class="mday">7</p><p class="month">lutego</p><p class="fests">Imieniny: Ryszarda, Romualda, Julianny, Sulisława</p></div></div><a class="calendar-ad" href="http://gry-online.poszkole.pl/kategoria,Pogodowe,18.html?utm_source=twojapogoda&utm_medium=banner&utm_campaign=gryposzkole" target="_blank"></a></div></div>
+<div id="box-risk-from" class="box-replace"><div id="box-risk" class="box-mk2"><h2>Ryzyko zjawisk</h2><div class="content"><table><tr><td class="text desc">Duże</td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 117px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 117px"></div></td><td class="risk" rowspan="3"><div class="spc" style="height: 0px"></div></td></tr><tr><td class="text desc">Średnie</td></tr><tr><td class="text desc">Małe</td></tr><tr class="titles"><td>&nbsp;</td><td class="text">Ryzyko<br/>grypy</td><td class="text">Ryzyko<br/>smogu</td><td class="text">Ryzyko<br/>suszy</td><td class="text">Ryzyko<br/>powodzi</td><td class="text">Ryzyko<br/>mrozu</td></tr></table></div></div></div>
+<script type="text/javascript">if (typeof window.tpmk2 !== "object") {window.tpmk2 = {};} window.tpmk2.city = {"id":726,"name":"Bielawa","url":"\/polska\/dolnoslaskie\/bielawa","lng":50.68,"lat":16.62};</script>				</section>
 			</div>
 
 			<aside class="grid_8">
@@ -390,11 +390,11 @@
 				<section class="content">
 					<div id="box-calendar-to" class="box-replace"></div><script type="text/javascript">box.misc.replace('box-calendar');</script>
 <div id="box-risk-to" class="replace"></div><script type="text/javascript">box.misc.replace('box-risk');</script>
-<div class="box-thumbnails box-mk2 clearfix"><h2><a href="/galerie">Multimedia</a></h2><div class="item"><div class="thumbnail"><a href="/galerie/3,wasze-zdjecia/78,wszystkie-wasze-zdjecia" rel="nofollow"><img title="Wszystkie Wasze zdjęcia" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.twojapogoda.pl/2017/01/1-130cx95.png" class="unveil" /></a></div><div class="content"><h3><a href="/galerie/3,wasze-zdjecia/78,wszystkie-wasze-zdjecia">Wszystkie Wasze zdjęcia</a></h3><p class="published">16 stycznia 2017, 17:51</p><p class="ellipsis">Zobaczcie fantastyczne zdjęcia otaczającego nas świata od czytelników. Własne zdjęcia wysyłajcie na: redakcja@twojapogoda.plWschód Słońca w Strzyżowie w woj. podkarpackim. Fot. Krzysztof Marczak.</p></div></div><div class="item odd"><div class="thumbnail"><a href="/galerie/1,nasze-zdjecia/6521,cudowne-ujecia-2016-roku" rel="nofollow"><img title="Cudowne ujęcia 2016 roku" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.twojapogoda.pl/2017/01/1_08-130cx95.jpg" class="unveil" /></a></div><div class="content"><h3><a href="/galerie/1,nasze-zdjecia/6521,cudowne-ujecia-2016-roku">Cudowne ujęcia 2016 roku</a></h3><p class="published">16 stycznia 2017, 08:05</p><p class="ellipsis">Jak wyglądały polskie krajobrazy w 2016 roku? Teraz możecie zobaczyć je na pięknych zdjęciach.</p></div></div></div><div id="box-widget" class="box-mk2 clearfix"><h2>Prognoza pogody na twoją stronę</h2><div class="download"><p>Chcesz mieć taki<strong>widget pogodowy</strong>na swojej stronie<strong>zupełnie za darmo?</strong></p><a href="/pogoda-na-twoje-www">Kliknij i pobierz</a></div><script type="text/javascript">box.widget();</script></div><div id="box-order" class="box-mk2"><p>Jeżeli jesteście Państwo zainteresowani rozbudową modułu lub uszczegółowieniem prognozy, prosimy o kontakt emailowy z naszym przedstawicielem:</p><a href="mailto:biuro@twojapogoda.pl">biuro@twojapogoda.pl</a></div><div id="box-pixad" class="box-mk2"><script type="text/javascript">box.pixad();</script></div>				</section>
+<div class="box-thumbnails box-mk2 clearfix"><h2><a href="/galerie">Multimedia</a></h2><div class="item"><div class="thumbnail"><a href="/galerie/3,wasze-zdjecia/78,wszystkie-wasze-zdjecia" rel="nofollow"><img title="Wszystkie Wasze zdjęcia" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.twojapogoda.pl/2017/01/1-130cx95.png" class="unveil" /></a></div><div class="content"><h3><a href="/galerie/3,wasze-zdjecia/78,wszystkie-wasze-zdjecia">Wszystkie Wasze zdjęcia</a></h3><p class="published">16 stycznia 2017, 17:51</p><p class="ellipsis">Zobaczcie fantastyczne zdjęcia otaczającego nas świata od czytelników. Własne zdjęcia wysyłajcie na: redakcja@twojapogoda.plWschód Słońca w Strzyżowie w woj. podkarpackim. Fot. Krzysztof Marczak.</p></div></div><div class="item odd"><div class="thumbnail"><a href="/galerie/1,nasze-zdjecia/6526,styczen-w-obiektywie" rel="nofollow"><img title="Styczeń w obiektywie" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.twojapogoda.pl/2017/02/1_01-130cx95.jpg" class="unveil" /></a></div><div class="content"><h3><a href="/galerie/1,nasze-zdjecia/6526,styczen-w-obiektywie">Styczeń w obiektywie</a></h3><p class="published">Wczoraj, 01:00</p><p class="ellipsis">Styczeń okazał się nie tylko śnieżny, ale też najmroźniejszy od 7 lat. Zobaczcie jego piękne oblicze na naszych zdjęciach.</p></div></div></div><div id="box-widget" class="box-mk2 clearfix"><h2>Prognoza pogody na twoją stronę</h2><div class="download"><p>Chcesz mieć taki<strong>widget pogodowy</strong>na swojej stronie<strong>zupełnie za darmo?</strong></p><a href="/pogoda-na-twoje-www">Kliknij i pobierz</a></div><script type="text/javascript">box.widget();</script></div><div id="box-order" class="box-mk2"><p>Jeżeli jesteście Państwo zainteresowani rozbudową modułu lub uszczegółowieniem prognozy, prosimy o kontakt emailowy z naszym przedstawicielem:</p><a href="mailto:biuro@twojapogoda.pl">biuro@twojapogoda.pl</a></div><div id="box-pixad" class="box-mk2"><script type="text/javascript">box.pixad();</script></div>				</section>
 			</div>
 			<aside class="grid_8">
-				<div id="box-ipla-player" class="box-mk2"><h2>Prognoza pogody</h2><div id="ipla-player"><video controls poster="http://s.redefine.pl/dcs/o2/redefine/vm2images/42/42c4f21xqma74mqxwn2mxyvdz5yxdn2i.jpg" class="videoPlayer"><source src="" type="video/mp4"><span class="videoPlayer__nosupport">Twoja przeglądarka nie wspiera odtwarzacza wideo...</span></video></div><script type="text/javascript"><!--//--><![CDATA[//><!-- 		// lines below shouldn't be edited 		function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};}; 		gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event'); 		(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0]; gt.setAttribute('async','async'); 		gt.setAttribute('defer','defer'); gt.src='http://spl.hit.gemius.pl/gemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script'); 		(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async'); 		gt.setAttribute('defer','defer'); gt.src=l+'://gapl.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script'); 		//--><!]]></script><script type="text/javascript">var gemius_stream2_identifier = "nXAwEjOaL5RneOgnbZdXsJdSfbuUt0ei1rpFPyshg2X._7";</script><script type="text/javascript" src="http://spl.hit.gemius.pl/gstream.js"></script><script type='text/javascript'>var IDENTIFIER = "coJA4oNy85.24TETkE3KnJaF31MFQkbGWZkTog2bSFn.57"; 		var HITCOLLECTOR = "http://spl.hit.gemius.pl"; 		var materialIdentifier = "tp_73b2802c7c62cc5d971e589c57b2b15a"; 		var treeId = [1]; 		var additionalPackage = [{name: "GA", value: "44"}]; 		var customPackage = [ 				{name: "TITLE", value: "2017.01.26 rano"}, 				{name: "SERIES", value: "Pogoda"}, 				{name: "TYPE", value: "vod"}, 				{name: "DISTRIBUTOR", value: "TwojaPogoda"}, 				{name: "PLAYER", value: "www.twojapogoda.pl"}, 				{name: "GROUP", value: "other"} 			]; 		var videoFirstClick = false, 			userPauseVideo = false, 			unmute = false; 		try{             window.localStorage["videoPlayer_volume"]=0;         } 		catch(e){}         videoPlayer.init({             ads: "http://ipla.hit.stat24.com/ad.js?id=bBT28ZCJMnaqA6YZluRWKn5Yszeh_jHFgGSZjRm9pUD.47/aocodetype=1&_=" + Date.now(), 			gemius: { 				stream: { 					id: IDENTIFIER, 					materialId: materialIdentifier, 					customPackage: customPackage, 					additionalPackage: additionalPackage, 					hit: HITCOLLECTOR, 					treeId: treeId 				}, 				prism:{ 					id: gemius_stream2_identifier, 					title: "2017.01.26 rano" 				} 			},             onInit: function(player, api){                 var $videoPlayer = $("#ipla-player"); 				$videoPlayer.on('click.vidplayer', '.videoPlayer', function(){ 					$('body').off('click.vidplayer mouseenter.vidplayer mouseleave.vidplayer'); 					unmute = true; 				}); 				$videoPlayer.on('mouseenter.vidplayer', '.videoPlayer', function(){ 					if(!unmute) $(this)[0].videoPlayer.volume(6); 				}).on('mouseleave.vidplayer', '.videoPlayer', function(){ 					if(!unmute) $(this)[0].videoPlayer.volume(0); 				}); 				var sliderProp = { 					top: $('.videoPlayer').offset().top, 					height: $('.videoPlayer').height() 				}, sliderTimer, sliderPlaying = false, windowTimer; 				$(window).on('resize.vidplayer', function(){ 					clearTimeout(sliderTimer); 					sliderTimer = setTimeout(function(){ 						sliderProp = { 							top: $('.videoPlayer').offset().top, 							height: $('.videoPlayer').height() 						}; 					}, 200); 				}).on('scroll.vidplayer', function(){ 					if(!userPauseVideo){ 						var top = $(this).scrollTop(), 							height = $(this).height(); 						clearTimeout(windowTimer); 						windowTimer = setTimeout(function(){ 							var state = top + height >sliderProp.top + 100 && top< sliderProp.top + sliderProp.height - 150, 								vid = $('.videoPlayer')[0].videoPlayer; 							if(!sliderPlaying && state){ 								if(vid){ 									vid.play(); 									sliderPlaying = true; 									setTimeout(function(){ 										$(window).scrollTop(top).off('resize.vidplayer scroll.vidplayer'); 									}, 100); 								} 							} 						}, 200); 					} 				}).scroll(); 			}, 			onPlay: function(){ 				userPauseVideo = false; 			}, 			onPause: function(){ 				userPauseVideo = true; 			} 		});</script></div><div id="box-nearest-to" class="box-replace"></div><script type="text/javascript">box.misc.replace("box-nearest");</script>
-<div class="box-thumbnails box-mk2 clearfix"><h2><a href="http://www.geekweek.pl/tag/tp" target="_blank">GeekWeek</a></h2><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28865/czy-projektor-sprawdzi-sie-w-kazdym-wnetrzu" target="_blank" rel="nofollow"><img title="Czy projektor sprawdzi się w każdym wnętrzu?" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.geekweek.pl/cms/2017/01/scr-1-130cx95.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28865/czy-projektor-sprawdzi-sie-w-kazdym-wnetrzu" target="_blank">Czy projektor sprawdzi się w każdym wnętrzu?</a></h3><p class="published">Wczoraj, 17:58</p><p class="ellipsis">Projektory kuszą dużymi przekątnymi wyświetlanego obrazu, mobilnością i coraz niższymi cenami. Jednocześnie jest to sprzęt, do którego zakupu trzeba się przygotować – należy zapewnić odpowiednią odległość od ekranu, natężenie światła i nachylenie urządzenia. Dziś podpowiadamy jak zrobić to najlepiej, a następnie dobrać urządzenie spełniające wszystkie wymagania.  </p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28862/najdziwniejsze-testamenty-i-ostatnie-wole-w-historii" target="_blank" rel="nofollow"><img title="Najdziwniejsze testamenty i ostatnie wole w historii" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.geekweek.pl/cms/2017/01/6_06eweteiskog20oo45-130cx95.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28862/najdziwniejsze-testamenty-i-ostatnie-wole-w-historii" target="_blank">Najdziwniejsze testamenty i ostatnie wole w historii</a></h3><p class="published">Wczoraj, 13:34</p><p class="ellipsis">Nie ma chyba pewniejszej rzeczy niż śmierć i chociaż większości z nas nie obchodzi, co stanie się z naszym dorobkiem po zakończeniu żywota, to jednak część osób pozostawia testamenty z ostatnią wolą. Tu prym wiodą znane osobistości, które specjalizują się...</p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28852/staruszka-przez-lata-modlila-sie-do-figurki-z-wladcy-pierscieni" target="_blank" rel="nofollow"><img title="Staruszka przez lata modliła się do figurki z Władcy Pierścieni" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.geekweek.pl/cms/2017/01/elr-2-130cx95.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28852/staruszka-przez-lata-modlila-sie-do-figurki-z-wladcy-pierscieni" target="_blank">Staruszka przez lata modliła się do figurki z Władcy Pierścieni</a></h3><p class="published">24 stycznia 2017, 17:58</p><p class="ellipsis">Zwykło się mawiać, że każdy musi w coś wierzyć. Dla przykładu, staruszka mieszkająca w Brazylii, przez lata modliła się do figurki postaci z Władcy Pierścieni, myląc ją ze św. Antonim. Wygląda na to, że święty nie ma jej tego za złe, ale posłuchajcie tej historii...</p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28850/luksusowy-hotel-na-drzewie-na-kole-podbiegunowym" target="_blank" rel="nofollow"><img title="Luksusowy hotel na drzewie na kole podbiegunowym" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.geekweek.pl/cms/2017/01/htl-1-130cx95.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28850/luksusowy-hotel-na-drzewie-na-kole-podbiegunowym" target="_blank">Luksusowy hotel na drzewie na kole podbiegunowym</a></h3><p class="published">24 stycznia 2017, 16:00</p><p class="ellipsis">Znana międzynarodowa firma Snøhetta stworzyła niesamowity dom na drzewie i umiejscowiła go w jednym z najpiękniejszych zakątków świata. „The 7th Room” jest luksusowym hotelem, zlokalizowanym na północy Szwecji, w pobliżu koła podbiegunowego, a jego zadaniem jest zbliżanie ludzi do natury.</p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28836/nie-zyje-gorden-kaye--aktor-wcielil-sie-w-ren-z-allo-allo" target="_blank" rel="nofollow"><img title="Nie żyje Gorden Kaye – aktor wcielił się w René z „Allo, Allo!”" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.geekweek.pl/cms/2017/01/rene-130cx95.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28836/nie-zyje-gorden-kaye--aktor-wcielil-sie-w-ren-z-allo-allo" target="_blank">Nie żyje Gorden Kaye – aktor wcielił się w René z „Allo, Allo!”</a></h3><p class="published">23 stycznia 2017, 18:52</p><p class="ellipsis">Gorden Kaye zaskarbił sobie serca polskich widzów wcielając się w rolę francuskiego restauratora, wmieszanego w działania ruchu oporu przeciwko niemieckiemu okupantowi. Serial „Allo, Allo!” był niezmiernie popularny, a wiele tekstów weszło do codziennego użycia.</p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28835/najlepsze-zdjecia-slubne-z-konkursu-junebug-weddings-2016-" target="_blank" rel="nofollow"><img title="Najlepsze zdjęcia ślubne z konkursu Junebug Weddings 2016 " src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.geekweek.pl/cms/2017/01/news_15-130cx95.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28835/najlepsze-zdjecia-slubne-z-konkursu-junebug-weddings-2016-" target="_blank">Najlepsze zdjęcia ślubne z konkursu Junebug Weddings 2016</a></h3><p class="published">23 stycznia 2017, 16:00</p><p class="ellipsis">Junebug Weddings to firma, która od lat zajmuje się profesjonalnym doradztwem w temacie organizacji ślubów oraz przyjęć weselnych. Dzięki nim można załatwić praktycznie wszystko, a na dodatek za pośrednictwem internetu.</p></div></div></div><div id="bmone2n-22342.9.8.4" class="box-mk2"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/8/4/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/8/4/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div><div class="box-thumbnails box-mk2 clearfix"><h2>Lifestyle</h2><div class="item"><div class="thumbnail"><a href="http://www.frazpc.pl/aktualnosci/931824,wideo-newsy-frazpcpl---odcinek-specjalny---targi-e3-2016.html" target="_blank" rel="nofollow"><img title="Wideo newsy FrazPC.pl - odcinek specjalny - targi E3 2016" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.frazpc.pl/cms/2016/06/wideonewsy-targi-e3-130cx95.png" class="unveil" /></a></div><div class="content"><h3><a href="http://www.frazpc.pl/aktualnosci/931824,wideo-newsy-frazpcpl---odcinek-specjalny---targi-e3-2016.html" target="_blank">Wideo newsy FrazPC.pl - odcinek specjalny - targi E3 2016</a></h3><p class="published">20 czerwca 2016, 14:05</p><p class="ellipsis">Zachęcamy do obejrzenia odcinka specjalnego wideo newsów, w którym podsumowaliśmy wszystkie najciekawsze premiery z targów E3 2016, które zakończyły się kilka dni temu w Los Angeles. Nie zabrakło oczywiście gier, zarówno tych które sprawią, że wasze serca zabiją szybciej, jak i takich, które jeszcze przed premierą mogą okazać się najwyżej średniakiem. Dajcie znać jakie są wasze odczucia!</p></div></div></div><div class="facebook fb-page" data-href="http://www.facebook.com/TwojaPogoda" data-width="300" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="http://www.facebook.com/TwojaPogoda"><a href="http://www.facebook.com/TwojaPogoda">Twoja Pogoda</a></blockquote></div></div>			</aside>
+				<div id="box-ipla-player" class="box-mk2"><h2>Prognoza pogody</h2><div id="ipla-player"><video controls poster="http://s.redefine.pl/dcs/o2/redefine/vm2images/zc/zc3zwp6wyw3owcnfxebzbhb8cetmnpzv.jpg" class="videoPlayer"><source src="http://redirector.redefine.pl/vm2movies/8y9k5waxdsuv84pwyyw5fenoawxz2289.mp4" type="video/mp4"><span class="videoPlayer__nosupport">Twoja przeglądarka nie wspiera odtwarzacza wideo...</span></video></div><script type="text/javascript"><!--//--><![CDATA[//><!-- 		// lines below shouldn't be edited 		function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};}; 		gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event'); 		(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0]; gt.setAttribute('async','async'); 		gt.setAttribute('defer','defer'); gt.src='http://spl.hit.gemius.pl/gemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script'); 		(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async'); 		gt.setAttribute('defer','defer'); gt.src=l+'://gapl.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script'); 		//--><!]]></script><script type="text/javascript">var gemius_stream2_identifier = "nXAwEjOaL5RneOgnbZdXsJdSfbuUt0ei1rpFPyshg2X._7";</script><script type="text/javascript" src="http://spl.hit.gemius.pl/gstream.js"></script><script type='text/javascript'>var IDENTIFIER = "coJA4oNy85.24TETkE3KnJaF31MFQkbGWZkTog2bSFn.57"; 		var HITCOLLECTOR = "http://spl.hit.gemius.pl"; 		var materialIdentifier = "tp_d9029c0c9c62eafd9adca70ba30d0a16"; 		var treeId = [1]; 		var additionalPackage = [{name: "GA", value: "44"}]; 		var customPackage = [ 				{name: "TITLE", value: "2017.02.07 południe"}, 				{name: "SERIES", value: "Pogoda"}, 				{name: "TYPE", value: "vod"}, 				{name: "DISTRIBUTOR", value: "TwojaPogoda"}, 				{name: "PLAYER", value: "www.twojapogoda.pl"}, 				{name: "GROUP", value: "other"} 			]; 		var videoFirstClick = false, 			userPauseVideo = false, 			unmute = false; 		try{             window.localStorage["videoPlayer_volume"]=0;         } 		catch(e){}         videoPlayer.init({             ads: "http://ipla.hit.stat24.com/ad.js?id=bBT28ZCJMnaqA6YZluRWKn5Yszeh_jHFgGSZjRm9pUD.47/aocodetype=1&_=" + Date.now(), 			gemius: { 				stream: { 					id: IDENTIFIER, 					materialId: materialIdentifier, 					customPackage: customPackage, 					additionalPackage: additionalPackage, 					hit: HITCOLLECTOR, 					treeId: treeId 				}, 				prism:{ 					id: gemius_stream2_identifier, 					title: "2017.02.07 południe" 				} 			},             onInit: function(player, api){                 var $videoPlayer = $("#ipla-player"); 				$videoPlayer.on('click.vidplayer', '.videoPlayer', function(){ 					$('body').off('click.vidplayer mouseenter.vidplayer mouseleave.vidplayer'); 					unmute = true; 				}); 				$videoPlayer.on('mouseenter.vidplayer', '.videoPlayer', function(){ 					if(!unmute) $(this)[0].videoPlayer.volume(6); 				}).on('mouseleave.vidplayer', '.videoPlayer', function(){ 					if(!unmute) $(this)[0].videoPlayer.volume(0); 				}); 				var sliderProp = { 					top: $('.videoPlayer').offset().top, 					height: $('.videoPlayer').height() 				}, sliderTimer, sliderPlaying = false, windowTimer; 				$(window).on('resize.vidplayer', function(){ 					clearTimeout(sliderTimer); 					sliderTimer = setTimeout(function(){ 						sliderProp = { 							top: $('.videoPlayer').offset().top, 							height: $('.videoPlayer').height() 						}; 					}, 200); 				}).on('scroll.vidplayer', function(){ 					if(!userPauseVideo){ 						var top = $(this).scrollTop(), 							height = $(this).height(); 						clearTimeout(windowTimer); 						windowTimer = setTimeout(function(){ 							var state = top + height >sliderProp.top + 100 && top< sliderProp.top + sliderProp.height - 150, 								vid = $('.videoPlayer')[0].videoPlayer; 							if(!sliderPlaying && state){ 								if(vid){ 									vid.play(); 									sliderPlaying = true; 									setTimeout(function(){ 										$(window).scrollTop(top).off('resize.vidplayer scroll.vidplayer'); 									}, 100); 								} 							} 						}, 200); 					} 				}).scroll(); 			}, 			onPlay: function(){ 				userPauseVideo = false; 			}, 			onPause: function(){ 				userPauseVideo = true; 			} 		});</script></div><div id="box-nearest-to" class="box-replace"></div><script type="text/javascript">box.misc.replace("box-nearest");</script>
+<div class="box-thumbnails box-mk2 clearfix"><h2><a href="http://www.geekweek.pl/tag/tp" target="_blank">GeekWeek</a></h2><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28997/te-instrumenty-wygladaja-i-brzmia-jakby-nie-byly-z-tego-swiata" target="_blank" rel="nofollow"><img title="Te instrumenty wyglądają i brzmią jakby nie były z tego świata" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://s3.static.geekweek.pl/cms/2017/02/bnn-0-379cx132.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28997/te-instrumenty-wygladaja-i-brzmia-jakby-nie-byly-z-tego-swiata" target="_blank">Te instrumenty wyglądają i brzmią jakby nie były z tego świata</a></h3><p class="published">5 lutego 2017, 12:40</p><p class="ellipsis">Dmitriy Gubarev jest muzykiem, urodzonym i mieszkającym na Ukrainie. Zawsze pasjonowała go miejscowa muzyka, symbolika oraz kultura i sztuka. Marzył też aby samodzielnie tworzyć instrumenty. Jego marzenie w końcu się spełniło. Dzięki jego pasji powstają całkowicie niesamowite instrumenty. 	 </p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28990/pixar-podpowiedzial-gdzie-szukac-smaczkow" target="_blank" rel="nofollow"><img title="Pixar podpowiedział gdzie szukać smaczków" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://s3.static.geekweek.pl/cms/2017/02/pixar-379cx132.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28990/pixar-podpowiedzial-gdzie-szukac-smaczkow" target="_blank">Pixar podpowiedział gdzie szukać smaczków</a></h3><p class="published">4 lutego 2017, 13:23</p><p class="ellipsis">Pixar przygotował dla swoich fanów nie lada niespodziankę. Opublikowano film, w którym pokazano, w jaki sposób wszystkie 17 produkcji tego studia łączą się ze sobą za pomocą pojedynczych elementów, umieszczonych w filmach. Zobaczcie! 	 </p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28979/25-najlepszych-trailerow-filmowych---styczen-2017" target="_blank" rel="nofollow"><img title="25 najlepszych trailerów filmowych - styczeń 2017" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://s2.static.geekweek.pl/cms/2017/02/adobe_spark-379cx132.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28979/25-najlepszych-trailerow-filmowych---styczen-2017" target="_blank">25 najlepszych trailerów filmowych - styczeń 2017</a></h3><p class="published">3 lutego 2017, 14:01</p><p class="ellipsis">Zapraszamy do przeglądu najciekawszych trailerów filmowych, które zostały zaprezentowane w styczniu. Na liście znalazło się aż 25 filmów, a wybór był bardzo trudny, ponieważ dystrybutorzy prześcigają się w promowaniu swoich najnowszych produkcji. Zapraszamy do oglądania! 	 </p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28973/butelki-wrzucone-do-morza-sa-zwracane-w-pieknej-formie" target="_blank" rel="nofollow"><img title="Butelki wrzucone do morza są zwracane w pięknej formie" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://s3.static.geekweek.pl/cms/2017/02/btl-0-379cx132.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28973/butelki-wrzucone-do-morza-sa-zwracane-w-pieknej-formie" target="_blank">Butelki wrzucone do morza są zwracane w pięknej formie</a></h3><p class="published">2 lutego 2017, 23:30</p><p class="ellipsis">Zatoka Ussuryjska była w czasach Związku Radzieckiego miejscem do wyrzucania zużytych szklanych butelek i porcelany. Po czasie Matka Natura zwraca je ludziom, a dzięki temu plaże nad zatoką słyną ze swojego niezwykłego piękna. 	 	  	 </p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28955/ubostwo-energetyczne---na-czym-polega-i-kogo-dotyka-najczesciej" target="_blank" rel="nofollow"><img title="Ubóstwo energetyczne - na czym polega i kogo dotyka najczęściej?" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://s1.static.geekweek.pl/cms/2017/02/energia-379cx132.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28955/ubostwo-energetyczne---na-czym-polega-i-kogo-dotyka-najczesciej" target="_blank">Ubóstwo energetyczne - na czym polega i kogo dotyka najczęściej?</a></h3><p class="published">1 lutego 2017, 19:53</p><p class="ellipsis">W Polsce ubóstwo energetyczne dotyka 9,6 proc. gospodarstw domowych, czyli ponad 4 mln osób - mówi PAP Aleksander Szpor z Instytutu Badań Strukturalnych. W Anglii ten wskaźnik wynosi 10,6 proc., tzn. dotyczy blisko 2,4 mln ludzi.  	 </p></div></div><div class="item"><div class="thumbnail"><a href="http://www.geekweek.pl/aktualnosci/28948/tego-nie-wiedzieliscie-o-kurczakach" target="_blank" rel="nofollow"><img title="Tego nie wiedzieliście o… kurczakach!" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://s3.static.geekweek.pl/cms/2017/02/8_06feffekurczkfi45-379cx132.jpg" class="unveil" /></a></div><div class="content"><h3><a href="http://www.geekweek.pl/aktualnosci/28948/tego-nie-wiedzieliscie-o-kurczakach" target="_blank">Tego nie wiedzieliście o… kurczakach!</a></h3><p class="published">1 lutego 2017, 09:00</p><p class="ellipsis">Kiedy myślimy o niesamowitych zwierzętach zamieszkujących naszą planetę, raczej niewielu osobom przychodzą na myśl popularne... kurczaki. Warto jednak bliżej przyjrzeć się tym ptakom, ponieważ potrafią być naprawdę fascynujące – zobaczcie sami:..</p></div></div></div><div id="bmone2n-22342.9.8.4" class="box-mk2"><noscript><div style="display:inline"><a href="http://go.pl.bbelements.com/please/redirect/22342/9/8/4/'><img src="http://go.pl.bbelements.com/please/showit/22342/9/8/4/?typkodu=img" style="border-width:0" alt="" /></a></div></noscript></div><div class="box-thumbnails box-mk2 clearfix"><h2>Lifestyle</h2><div class="item"><div class="thumbnail"><a href="http://www.frazpc.pl/aktualnosci/931824,wideo-newsy-frazpcpl---odcinek-specjalny---targi-e3-2016.html" target="_blank" rel="nofollow"><img title="Wideo newsy FrazPC.pl - odcinek specjalny - targi E3 2016" src="/images/box/unveil.gif" width="130" height="95" alt="thumbnail" data-src="http://static.frazpc.pl/cms/2016/06/wideonewsy-targi-e3-130cx95.png" class="unveil" /></a></div><div class="content"><h3><a href="http://www.frazpc.pl/aktualnosci/931824,wideo-newsy-frazpcpl---odcinek-specjalny---targi-e3-2016.html" target="_blank">Wideo newsy FrazPC.pl - odcinek specjalny - targi E3 2016</a></h3><p class="published">20 czerwca 2016, 14:05</p><p class="ellipsis">Zachęcamy do obejrzenia odcinka specjalnego wideo newsów, w którym podsumowaliśmy wszystkie najciekawsze premiery z targów E3 2016, które zakończyły się kilka dni temu w Los Angeles. Nie zabrakło oczywiście gier, zarówno tych które sprawią, że wasze serca zabiją szybciej, jak i takich, które jeszcze przed premierą mogą okazać się najwyżej średniakiem. Dajcie znać jakie są wasze odczucia!</p></div></div></div><div class="facebook fb-page" data-href="http://www.facebook.com/TwojaPogoda" data-width="300" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="http://www.facebook.com/TwojaPogoda"><a href="http://www.facebook.com/TwojaPogoda">Twoja Pogoda</a></blockquote></div></div>			</aside>
 		</div>
 		
 <div class="box no-h2-hr bottom-links">
@@ -464,7 +464,7 @@
 <div id="bmone2t-22342.9.2.1" style="display:none"><script type="text/javascript">bmone2n.makeAd('22342.9.2.1');</script></div>
 <div id="bmone2t-22342.9.14.10" style="display:none"><script type="text/javascript">bmone2n.makeAd('22342.9.14.10');</script></div>
 <div id="bmone2t-22342.9.10.2" style="display:none"><script type="text/javascript">bmone2n.makeAd('22342.9.10.2');</script></div>
-<script type="text/javascript">bmone2n.moveAd();</script><script type="text/javascript" src="http://s2.hit.stat24.com/_1485451123524/script.js?id=d1OVTYe4SeRQZcVkJDfzkMdvLa.YlyeIlv5.0YSJIsP.c7/l=11"></script>
+<script type="text/javascript">bmone2n.moveAd();</script><script type="text/javascript" src="http://s2.hit.stat24.com/_1486496456560/script.js?id=d1OVTYe4SeRQZcVkJDfzkMdvLa.YlyeIlv5.0YSJIsP.c7/l=11"></script>
 <script type="text/javascript">$(".unveil").unveil();</script>
 	</body>
 </html>
