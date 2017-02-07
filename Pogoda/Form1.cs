@@ -18,6 +18,7 @@ namespace Pogoda
 
         Connection connection;
 
+        SQL sql;
         public Form1()
         {
             InitializeComponent();
@@ -25,16 +26,18 @@ namespace Pogoda
             getHtml = new GetHtml();
             regEx = new RegEx();
             connection = new Connection();
+            sql = new SQL(comboBoxState,comboBoxCity);
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.comboBoxState.Items.AddRange(new object[] {"zachodniopomorskie",
-                        "pomorskie",
-                        "lubelskie",
-                        "wielkopolskie",
-                        "mazowieckie"});
-            comboBoxState.Text = "Please, select any value";
+            sql.State();
+            //this.comboBoxState.Items.AddRange(new object[] {"zachodniopomorskie",
+            //            "pomorskie",
+            //            "lubelskie",
+            //            "wielkopolskie",
+            //            "mazowieckie"});
+           // comboBoxState.Text = "Please, select any value";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -66,35 +69,32 @@ namespace Pogoda
         {
             buttonGet.Enabled = false;
 
-            if (comboBoxState.SelectedIndex < 0)
-            {
-                comboBoxState.Text = "Please, select any value";
-            }
-            else
-            {
-                comboBoxState.Text = comboBoxState.SelectedText;
+            
+            
+                //comboBoxState.Text = comboBoxState.SelectedText;
                 comboBoxCity.Visible = true;
-                if (comboBoxState.SelectedItem.ToString() == "zachodniopomorskie")
-                {
-                    clearBox();
+                sql.City();
+                //if (comboBoxState.SelectedIndex == 1)
+                //{
+                //    clearBox();
 
-                    comboBoxCity.Items.AddRange(new object[] {"koszalin",
-                        "kolobrzeg",
-                        "szczecin",
-                        "szczecinek"});
+                //    comboBoxCity.Items.AddRange(new object[] {"koszalin",
+                //        "kolobrzeg",
+                //        "szczecin",
+                //        "szczecinek"});
 
-                }
-                else if (comboBoxState.SelectedItem.ToString() == "mazowieckie")
-                {
-                    clearBox();
+                //}
+                //else if (comboBoxState.SelectedItem.ToString() == "mazowieckie")
+                //{
+                //    clearBox();
 
-                    comboBoxCity.Items.AddRange(new object[] {"warszawa",
-                        "radom",
-                        "grojec",
-                        "lipsko"});
-                }
+                //    comboBoxCity.Items.AddRange(new object[] {"warszawa",
+                //        "radom",
+                //        "grojec",
+                //        "lipsko"});
+                //}
 
-            }
+            
 
         }
 
