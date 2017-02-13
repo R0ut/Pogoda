@@ -12,7 +12,7 @@ namespace Pogoda
 {
     class GetHtml
     {
-        public string html;
+        private string html;
         public void side(string woj, string miasto)
         {
             //pobieranie kodu html ze strony
@@ -34,8 +34,10 @@ namespace Pogoda
 
             try
             {
+                string projectPath = (Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName) + "/Resources/html.txt"; // path of project
+               
+                System.IO.File.WriteAllText(projectPath, html);
                 
-                System.IO.File.WriteAllText(@"C:\Users\Janek\Documents\Visual Studio 2015\Projects\Pogoda\Pogoda\Resources\html.txt", html);
             }
             catch (Exception er)
             {
